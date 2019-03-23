@@ -1,0 +1,5 @@
+ERROR: BigNumber Error: new BigNumber() not a base 16 number: 
+
+- https://truffleframework.com/docs/truffle/getting-started/interacting-with-your-contracts#making-a-call
+
+- https://ethereum.stackexchange.com/questions/16807/web3-new-bignumber-not-a-base-16-number-when-calling-a-contract-constant-fun?rq=1
